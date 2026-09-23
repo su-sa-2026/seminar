@@ -1,4 +1,5 @@
 衛星データを用いた真珠浜揚げ量予測の流れ
+
 1. データ収集（JAXA G-Portal）   
 ▶jaxa-earth ライブラリを使用し、JAXAの地球観測プラットフォーム「G-Portal」から衛星データを取得
 
@@ -10,6 +11,7 @@
 
 ---
 Workflow for predicting pearl production using satellite data
+
 1. Data collection（JAXA G-Portal）   
 ▶Retrieve satellite data from JAXA's Earth observation platform "G-Portal" using the jaxa-earth library.
 
