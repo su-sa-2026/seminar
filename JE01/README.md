@@ -8,9 +8,15 @@
 3. 解析・予測   
 ▶水質環境と浜揚げ量の相関を分析し、予測モデルを構築して収穫量を予測
 
-
 ---
 Workflow for predicting pearl production using satellite data
 
+1. Data collection（JAXA G-Portal）   
+▶Retrieve satellite data from JAXA's Earth observation platform "G-Portal" using the jaxa-earth library.
+▶Collect monthly average data for three environmental indicators affecting pearl growth (Sea Surface Temperature, Chlorophyll-a, and Precipitation) around Agu Bay from 2018 to 2025.
+2. Preprocessing and integration   
+▶Convert and format the acquired satellite data into analysis-ready array data (NumPy) and integrate them.   
+3. Analysis and prediction   
+▶Analyze the correlation between water environment factors and pearl production volume, then build a predictive model to forecast harvest quantities.
 
 ---
