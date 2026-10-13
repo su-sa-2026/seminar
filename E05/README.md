@@ -1,1 +1,1 @@
-
+This notebook introduces the basic workflow of a machine learning classification project using the famous Iris dataset. It uses measurements of sepal length, sepal width, petal length, and petal width to predict the species of an iris flower. The notebook covers the complete process, including data exploration, visualization, model training, and performance evaluation, making it an excellent beginner-friendly example of machine learning.
