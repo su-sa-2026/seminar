@@ -1,3 +1,3 @@
-* This Python code scrapes movie reviews and ratings for the film Winny from the Filmarks review website using BeautifulSoup, stores the data in a pandas DataFrame, and saves it as a CSV file (review.csv). It then performs text preprocessing by removing noisy characters such as symbols and emojis using str.replace(), generating a cleaned dataset (review_clean.csv) suitable for sentiment analysis and machine learning tasks like BERT.
+* **scraping_csv_cleaning_english.ipynb**: This Python code scrapes movie reviews and ratings for the film Winny from the Filmarks review website using BeautifulSoup, stores the data in a pandas DataFrame, and saves it as a CSV file (review.csv). It then performs text preprocessing by removing noisy characters such as symbols and emojis using str.replace(), generating a cleaned dataset (review_clean.csv) suitable for sentiment analysis and machine learning tasks like BERT.
 
-* 
+* **bert_sentiment_analysis_english.ipynb**: This notebook demonstrates how to fine-tune a pre-trained Japanese BERT model (cl-tohoku/bert-base-japanese-v3) for binary sentiment classification using Japanese review texts (review_clean_p.csv).
