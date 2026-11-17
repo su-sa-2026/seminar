@@ -17,5 +17,10 @@ TabularTextTransformer (TTT) is a multimodal Transformer architecture for tabula
 <img width="1632" height="784" alt="image" src="https://github.com/user-attachments/assets/6389b198-b5c9-4d5b-969a-e78dcae3dce3" />
 
 ---
+代表的なテキスト特徴量抽出手法の比較 / Comparison of typical text feature extraction methods
+
+<img width="1278" height="1108" alt="image" src="https://github.com/user-attachments/assets/116a40d9-c787-4936-be58-08be84b5e0cf" />
+
+---
 
 
