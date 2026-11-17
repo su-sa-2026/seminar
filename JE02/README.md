@@ -29,7 +29,7 @@ TabularTextTransformer (TTT) is a multimodal Transformer architecture for tabula
  前処理・トークン化 → テキストエンコーダ（BERTなど）→ テキストエンベディング
 
 統合処理
- 共通次元へ変換 → Fusion（連結・ゲート・Attention）→ 分類／回帰 → 予測結果
+ 共通次元へ変換 → **Fusion（連結・ゲート・Attention）** → 分類／回帰 → 予測結果
 
 Numerical data
  Preprocessing and scaling → Numerical encoder (MLP) → Numerical embedding
@@ -38,7 +38,7 @@ Text data
  Preprocessing and tokenization → Text encoder (e.g., BERT) → Text embedding
 
 Fusion process
- Projection into a common dimension → Fusion (concatenation, gating, or attention) → Classification/regression → Prediction output
+ Projection into a common dimension → **Fusion (concatenation, gating, or attention)** → Classification/regression → Prediction output
 
  ---
  
