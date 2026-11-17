@@ -12,5 +12,10 @@ TabularTextTransformer (TTT) は、数値・カテゴリとテキストが混在
 TabularTextTransformer (TTT) is a multimodal Transformer architecture for tabular data containing text fields (e.g., for medical diagnosis or financial risk).
 
 ---
+テキスト特徴量抽出手法の比較 / Comparison of Text Feature Extraction Methods
+
+<img width="1632" height="784" alt="image" src="https://github.com/user-attachments/assets/6389b198-b5c9-4d5b-969a-e78dcae3dce3" />
+
+---
 
 
