@@ -6,15 +6,15 @@ If a model guesses "normal" (0) every single time, it gets 95% accuracy while ca
 
 2. Core Sampling Methods Compared
 
-Method	                    How It Works	                                    
+Method	               /                    How It Works	                                    
 ---
-Random Oversampling	        Duplicates existing minority (1) rows at random.  
+Random Oversampling	   /     Duplicates existing minority (1) rows at random.  
 
 ---
-SMOTE                      Creates new synthetic minority (1) points between nearby minority neighbors (best for continuous numeric features).
+SMOTE                  /    Creates new synthetic minority (1) points between nearby minority neighbors (best for continuous numeric features).
 
 ---
-Random Undersampling       Randomly drops majority (0) rows.
+Random Undersampling   /    Randomly drops majority (0) rows.
 
 ---
 
