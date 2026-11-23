@@ -8,13 +8,13 @@ If a model guesses "normal" (0) every single time, it gets 95% accuracy while ca
 
 Method	               /                    How It Works	                                    
 ---
-Random Oversampling	   /     Duplicates existing minority (1) rows at random.  
+Random Oversampling	   /    Duplicates minority samples  
 
 ---
-SMOTE                  /    Creates new synthetic minority (1) points between nearby minority neighbors (best for continuous numeric features).
+SMOTE                  /    Interpolates between neighboring minority points
 
 ---
-Random Undersampling   /    Randomly drops majority (0) rows.
+Random Undersampling   /    Removes majority samples
 
 ---
 
